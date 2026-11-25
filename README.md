@@ -9,6 +9,6 @@
 | 02 | Danh sách | Buoi02_DanhSach | Đã nộp |
 | 03 | Stack và Queue | Buoi03_Stack_Queue | Đã nộp |
 | 04 | Cây | Buoi04_Cay | Đã nộp |
-| 05 | Sắp xếp | Buoi05_SapXep | Chưa nộp |
+| 05 | Sắp xếp | Buoi05_SapXep | Đã nộp |
 | 06 | Tìm kiếm | Buoi06_TimKiem | Chưa nộp |
 | BTL | Bài tập lớn | BaiTapLon | Chưa nộp |
